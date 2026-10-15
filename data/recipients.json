@@ -1,0 +1,54 @@
+[
+    {
+        "recipient_id": "R-101",
+        "organization_name": "Hillcrest Recreation Center",
+        "accepted_food_types": [
+            "prepared_meals"
+        ],
+        "capacity": 50,
+        "location": "Fullerton, CA",
+        "closing_time": "22:00"
+    },
+    {
+        "recipient_id": "R-102",
+        "organization_name": "Orange County Rescue Mission",
+        "accepted_food_types": [
+            "prepared_meals",
+            "bakery"
+        ],
+        "capacity": 40,
+        "location": "Tustin, CA",
+        "closing_time": "18:00"
+    },
+    {
+        "recipient_id": "R-103",
+        "organization_name": "Second Harvest Food Bank",
+        "accepted_food_types": [
+            "produce",
+            "bakery"
+        ],
+        "capacity": 80,
+        "location": "Irvine, CA",
+        "closing_time": "17:00"
+    },
+    {
+        "recipient_id": "R-104",
+        "organization_name": "Hope Community Fridge",
+        "accepted_food_types": [
+            "produce"
+        ],
+        "capacity": 20,
+        "location": "Fullerton, CA",
+        "closing_time": "20:00"
+    },
+    {
+        "recipient_id": "R-105",
+        "organization_name": "Santa Ana Food Pantry",
+        "accepted_food_types": [
+            "prepared_meals"
+        ],
+        "capacity": 50,
+        "location": "Santa Ana, CA",
+        "closing_time": "19:00"
+    }
+]
