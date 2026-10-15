@@ -24,7 +24,13 @@ python -m unittest discover -v
 - main.py: runs both strategies and prints explanations and comparisons.
 - seed_data.py: recreates sample JSON files in data/.
 - test_*.py: 21 automated tests.
-Donations contain IDs, food type, quantity, location, ready time, and shelf life. Recipients contain accepted foods, capacity, location, and closing time. Volunteers contain vehicle capacity, location, availability, and pickup limits.
+  
+# Data Input & Constraints
+Donations contain:  IDs, food type, Quantity, Location, Ready time, and Shelf life. 
+
+Recipients contain: Accepted foods, Capacity, Location, and Closing time.
+
+Volunteers contain: Vehicle capacity, Location, Availability, and Pickup limits.
 
 Lists preserve order; sets check foods and duplicate IDs; dictionaries store lookups, decisions, and metrics.
 
@@ -46,7 +52,7 @@ Metrics include assigned/unassigned counts, rescued/at-risk quantity, urgent res
 # Limitations
 One-day batch scheduling, indivisible donations, simulated travel, and no route optimization or fairness protection. This educational prototype is not approved for real food-handling or operational use.
 
-# Team
+# Team Members
 - Mary Jonn Justiniano — Algorithm & Optimization Lead. Commits:
 - Brandon Silva — Data & Matching Lead. Commits: 7
 - Arianna Washington — Product & Quality Lead. Commits:
