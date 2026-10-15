@@ -1,0 +1,34 @@
+[
+    {
+        "volunteer_id": "V-101",
+        "volunteer_name": "Alex Nguyen",
+        "vehicle_capacity": 60,
+        "location": "Fullerton",
+        "is_available": true,
+        "maximum_pickups": 2
+    },
+    {
+        "volunteer_id": "V-102",
+        "volunteer_name": "Maria Garcia",
+        "vehicle_capacity": 50,
+        "location": "Fullerton",
+        "is_available": true,
+        "maximum_pickups": 2
+    },
+    {
+        "volunteer_id": "V-103",
+        "volunteer_name": "David Kim",
+        "vehicle_capacity": 90,
+        "location": "Irvine",
+        "is_available": true,
+        "maximum_pickups": 2
+    },
+    {
+        "volunteer_id": "V-104",
+        "volunteer_name": "Sarah Jenkins",
+        "vehicle_capacity": 50,
+        "location": "Anaheim",
+        "is_available": false,
+        "maximum_pickups": 2
+    }
+]
