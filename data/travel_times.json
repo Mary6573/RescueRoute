@@ -1,0 +1,37 @@
+{
+    "Fullerton": {
+        "Fullerton": 5,
+        "Anaheim": 10,
+        "Santa Ana": 18,
+        "Tustin": 20,
+        "Irvine": 25
+    },
+    "Santa Ana": {
+        "Fullerton": 18,
+        "Anaheim": 12,
+        "Santa Ana": 5,
+        "Tustin": 8,
+        "Irvine": 15
+    },
+    "Anaheim": {
+        "Fullerton": 10,
+        "Anaheim": 5,
+        "Santa Ana": 12,
+        "Tustin": 15,
+        "Irvine": 22
+    },
+    "Tustin": {
+        "Fullerton": 20,
+        "Anaheim": 15,
+        "Santa Ana": 8,
+        "Tustin": 5,
+        "Irvine": 12
+    },
+    "Irvine": {
+        "Fullerton": 25,
+        "Anaheim": 22,
+        "Santa Ana": 15,
+        "Tustin": 12,
+        "Irvine": 5
+    }
+}
