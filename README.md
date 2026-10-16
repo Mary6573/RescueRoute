@@ -53,7 +53,7 @@ Metrics include assigned/unassigned counts, rescued/at-risk quantity, urgent res
 One-day batch scheduling, indivisible donations, simulated travel, and no route optimization or fairness protection. This educational prototype is not approved for real food-handling or operational use.
 
 # Team Members
-- Mary Jonn Justiniano — Algorithm & Optimization Lead. Commits:
+- Mary Jonn Justiniano — Algorithm & Optimization Lead. Commits: 5
 - Brandon Silva — Data & Matching Lead. Commits: 7
 - Arianna Washington — Product & Quality Lead. Commits:
   
