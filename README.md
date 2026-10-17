@@ -58,4 +58,4 @@ One-day batch scheduling, indivisible donations, simulated travel, and no route 
 - Arianna Washington — Product & Quality Lead. Commits:
   
 # References and Assistance
-Uses Python’s standard library and generated data. ChatGPT assisted with code revisions, validation, matching, tests, documentation, and command-line formatting and explanations, guidance in testing.
+Uses Python’s standard library and generated data. ChatGPT assisted with code revisions, validation, matching, tests, documentation, and command-line formatting and explanations.
